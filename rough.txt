@@ -1,0 +1,15 @@
+read upto Function Components
+
+start from Taking turns
+
+---Didn't made the changes in square component
+
+
+
+
+Queries
+--------
+
+- What is pure component in react?
+- what is the use of shouldComponentUpdate()?
+- how shouldComponentUpdate() is related to pure components?
